@@ -18,7 +18,7 @@ const routes = [
   },
   {
     path: '/webchannel',
-    name: 'howebchannel',
+    name: 'webchannel',
     component: WebChannelView
   }
 ]
