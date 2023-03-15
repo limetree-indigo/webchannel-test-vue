@@ -1,5 +1,12 @@
 # frontend1
 
+### 참고 파일
+- #### public/index.html - 주요 변경 파일
+- #### src/assets/backend.js - 주요 추가 파일
+- #### src/views/WebChannelView.vue - 주요 추가 파일
+- #### src/App.vue - 라우터 추가
+- #### router/index.js - 라우터 추가
+
 ## Project setup
 ```
 npm install
