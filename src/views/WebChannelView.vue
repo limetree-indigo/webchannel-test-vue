@@ -1,8 +1,9 @@
 <template>
   <div class="channel">
     <h1>This is an about page</h1>
-    <button @click="bClick(hello)">버튼5</button>
-    <button @click="bClick(10)">버튼6</button>
+    <button @click="bClick(hello)">버튼 Object</button>
+    <button @click="bClick(10)">버튼 number</button>
+    <button @click="bClick('abcde')">버튼 string</button>
   </div>
 </template>
 <script>
