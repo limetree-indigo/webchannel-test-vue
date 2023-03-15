@@ -13,7 +13,7 @@
       window.onload = function()
       {
         new QWebChannel(qt.webChannelTransport, function(channel) {
-            backend = channel.objects.backend;
+            window.backend = channel.objects.backend;
         })
       }           
         
